@@ -1,0 +1,26 @@
+{
+  "name": "jswithtest",
+  "version": "1.0.0",
+  "description": "curse js with test",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/angelilton/JSWithTest.git"
+  },
+  "keywords": [
+    "js",
+    "tdd",
+    "library"
+  ],
+  "author": "Angelilton Epifanio",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/angelilton/JSWithTest/issues"
+  },
+  "homepage": "https://github.com/angelilton/JSWithTest#readme"
+}
